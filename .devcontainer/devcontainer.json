@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "test": "yarn install && yarn test:unit",
+    "build": "yarn install && yarn build:dev",
+    "launch": "yarn install && yarn build:dev"
+  }
+}
